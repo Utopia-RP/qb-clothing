@@ -502,6 +502,7 @@ Config.ManPlayerModels = {
     'g_m_m_chigoon_02_m',
     'a_m_o_acult_01'
 }
+
 Config.LoadedManModels = {}
 Config.LoadedWomanModels = {}
 
